@@ -1,0 +1,29 @@
+.basketcar{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.basketcar_info {
+  padding-left: 20px;
+}
+
+.basketcar_info > button {
+  background: #e48b38;
+  border-radius: 25px;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: whitesmoke;
+}
+
+.basketcar_image {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.basketcar_title {
+  font-size: 17px;
+  font-weight: 800;
+}
